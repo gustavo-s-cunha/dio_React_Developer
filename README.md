@@ -10,6 +10,7 @@ O repositório é dividido em pastas, cada uma contendo o desafio proposto e sua
 Criando Uma Calculadora Com React  
 
 ## Desafio 2
+Criar uma Wiki para buscar e salvar alguns repositórios do GitHub.
 
 ## Desafio 3
 
