@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "gustavo",
+      "email": "gustavo@email.com",
+      "senha": "7c4a8d09ca3762af61e59520943dc26494f8941b"
+    },
+    {
+      "id": "1fe3",
+      "name": "erica.coelho",
+      "email": "erica.coelho@ufv.br",
+      "senha": "7c4a8d09ca3762af61e59520943dc26494f8941b"
+    }
+  ]
+}

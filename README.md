@@ -13,6 +13,7 @@ Criando Uma Calculadora Com React
 Criar uma Wiki para buscar e salvar alguns repositórios do GitHub.
 
 ## Desafio 3
+Desenvolvendo a Tela de Cadastro/Login da Plataforma Dio com React.  
 
 ## Desafio 4
 
